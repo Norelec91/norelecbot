@@ -1,0 +1,24 @@
+:red_circle: NorelecBot :red_circle:
+
+:information_source: Come si gioca?
+
+:arrow_forward: Raccogli le palle con /raccogli e cerca di raccogliere l'ultima palla del castello... ma sappi che le palle sono davvero tante! Nel frattempo puoi potenziarti le mani (/aggiornamani) per raccogliere più palle alla volta ed i piedi (/aggiornapiedi) per raccoglierle più velocemente, ma non dimenticarti di potenziare anche il contenitore per contenere più palle! Palle, palle, palle! Ah dimenticavo che puoi anche comprarti un simpatico robottino (/comprarobot) che fa il lavoro sporco per te, e lo puoi addirittura potenziarlo per fargli raccogliere più palle (/aggiornapala) e più velocemente (/aggiornacingoli)!
+
+Vi consiglio di entrare nel gruppo del contest (Palle di Norelec) perchè organizzerò dei contest nel contest che hanno come premio dei boost o dei malus per tutti se non vengono risolti!
+
+Link del gruppo del contest: https://t.me/joinchat/BVY0akeE8KBiIZzW74QmHA
+Link del Regno: https://t.me/joinchat/BVY0aj7XH0bKFHy5H2-3Cw
+
+Credits:
+
+@Norelec (Progettazione e programmazione)
+@DrancescoForonzo (Idee, PR, FAQ varie e mia vittima)
+@Hamcha (Hosting)
+@speck01 (Propic)
+Regno di Norelec (Tanto beta testing e tanta pazienza)
+Comunità di @InventoryBot (Beta testing e pazienza)
+@msx80 (Re e Signore di @InventoryBot, mi ha dato il permesso per i premi ed è anche il motivo per cui stiamo tutti insieme :P)
+
+gl & hf!
+
+:red_circle::red_circle::red_circle::red_circle::red_circle:

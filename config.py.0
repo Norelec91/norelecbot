@@ -1,0 +1,11 @@
+SQL_HOST = 'localhost'
+SQL_PORT = 3306
+SQL_USER = 'foobarbot'
+SQL_PASSWORD = 'password'
+SQL_DATABASE = 'foobarbot'
+
+TOKEN = ''
+DOMAIN = 'foo.bar'
+URL = '/'
+PORT = 3535
+NAME = ''

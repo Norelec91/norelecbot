@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# PROVIDE: norelecbot
+# REQUIRE: DAEMON FILESYSTEMS MYSQL
+# KEYWORD: webapp
+
+. /etc/rc.subr
+
+name=norelecbot
+rcvar=norelecbot_enable
+
+command=/home/norelecbot/norelecbot/norelecbot.py
+command_interpreter=/usr/local/bin/python3.6
+start_cmd="cd /home/norelecbot/norelecbot; /usr/sbin/daemon -u $name $command >> /var/log/norelecbot.log 2>&1"
+
+load_rc_config $name
+run_rc_command "$1"
